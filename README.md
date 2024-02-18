@@ -2,7 +2,7 @@
 
 This Discord bot efficiently fetches and analyzes data from GOAT, a specialized online store for sneakers, apparel, and accessories, using effective web scraping techniques.
 
-### Setup Instructions
+## Setup Instructions
 
 #### 1. Install Python and Required Libraries:
    - Ensure Python is installed on your system ([Download Python](https://www.python.org/))
@@ -34,6 +34,6 @@ This Discord bot efficiently fetches and analyzes data from GOAT, a specialized 
    - Make sure to handle environment variables securely.
    - You may need to adjust permissions and roles within your Discord server for the bot to function correctly.
   
-### Demonstration 
+## Demonstration 
 https://github.com/SahajKAT/GOAT-Discord-Bot/assets/113306405/47f3fcc7-1124-4a07-99e7-e680077963c3
 
