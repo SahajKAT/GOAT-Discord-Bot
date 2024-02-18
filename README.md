@@ -7,6 +7,7 @@ This Discord bot retrieves and processes data from GOAT, an online store special
 ### 1. Install Python and Required Libraries:
    - Ensure Python is installed on your system ([Download Python](https://www.python.org/))
    - Install the required libraries using pip:
+     
      ```
      pip install discord.py python-dotenv requests
      ```
