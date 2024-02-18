@@ -7,6 +7,7 @@ This Discord bot efficiently fetches and analyzes data from GOAT, a specialized 
 ### 1. Install Python and Required Libraries:
    - Ensure Python is installed on your system ([Download Python](https://www.python.org/))
    - Install the required libraries using pip:
+     
      ```
      pip install discord.py python-dotenv requests
      ```
