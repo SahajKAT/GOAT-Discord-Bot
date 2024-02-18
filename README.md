@@ -12,7 +12,7 @@ This Discord bot efficiently fetches and analyzes data from GOAT, a specialized 
      pip install discord.py python-dotenv requests
      ```
 
-#### 2. Make a Discord Bot:
+#### 2. Create a Discord Bot:
    - Navigate to the Discord Developer Portal ([Discord Developer Portal](https://discord.com/developers/applications))
    - Create a new application
    - Navigate to the "Bot" tab and click "Add Bot"
