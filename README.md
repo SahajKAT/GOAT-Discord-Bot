@@ -24,10 +24,10 @@ This Discord bot efficiently fetches and analyzes data from GOAT, a specialized 
 
 #### 4. Adjust File References:
    - Ensure that your main Python file is named `bot_setup.py` and contains the bot logic.
-   - If your bot logic is split into multiple files, ensure they are correctly imported and referenced in `discord_bot.py`.
+   - If your bot logic is split into multiple files, ensure they are correctly imported and referenced in `bot_setup.py`.
 
 #### 5. Run the Bot:
-   - Run your bot script by executing `discord_bot.py`.
+   - Run your bot script by executing `bot_setup.py`.
    - Your bot should now be online and responding to commands prefixed with `!goat`.
 
 #### Note:
