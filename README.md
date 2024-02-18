@@ -1,6 +1,6 @@
-# Goat-Discord-Bot
+# GOAT-Discord-Bot
 
-This Discord bot retrieves and processes data from GOAT, an online store specializing in sneakers, apparel, and accessories, through web scraping techniques.
+This Discord bot efficiently fetches and analyzes data from GOAT, a specialized online store for sneakers, apparel, and accessories, using effective web scraping techniques.
 
 ## Setup Instructions
 
