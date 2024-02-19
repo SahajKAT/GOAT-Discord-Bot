@@ -39,6 +39,4 @@ This Discord bot retrieves and processes data from GOAT, an online store special
 https://github.com/SahajKAT/GOAT-Discord-Bot/assets/113306405/47f3fcc7-1124-4a07-99e7-e680077963c3
 
 ## Developed By
-
-[MAQ030](https://github.com/MAQ030) and [SahajKAT](https://github.com/SahajKAT)
-
+[SahajKAT](https://github.com/SahajKAT) and [MAQ030](https://github.com/MAQ030)
