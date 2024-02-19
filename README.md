@@ -1,4 +1,4 @@
-# GOAT-Discord-Bot
+e# GOAT-Discord-Bot
 
 This Discord bot retrieves and processes data from GOAT, an online store specializing in sneakers, apparel, and accessories, through web scraping techniques. It incorporates resilient error-handling capabilities to swiftly address issues such as unavailable, inaccessible, or non-existent items.
 
@@ -36,7 +36,7 @@ This Discord bot retrieves and processes data from GOAT, an online store special
    - Make sure to set up your `.env` file with your Discord token before running the bot script.
   
 ## Demonstration 
-https://github.com/SahajKAT/GOAT-Discord-Bot/assets/113306405/47f3fcc7-1124-4a07-99e7-e680077963c3.
+https://github.com/SahajKAT/GOAT-Discord-Bot/assets/113306405/47f3fcc7-1124-4a07-99e7-e680077963c3
 
 ## Developed By
 [SahajKAT](https://github.com/SahajKAT) and [MAQ030](https://github.com/MAQ030).
