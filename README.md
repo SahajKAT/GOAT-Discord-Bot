@@ -23,7 +23,7 @@ This Discord bot efficiently fetches and analyzes data from GOAT, a specialized 
    - Enable the "PRESENCE INTENT" and "SERVER MEMBERS INTENT" under the "Privileged Gateway Intents" section
 
 #### 4. File Overview:
-   - The file `discord_bot.py` contains the core functionality of the Discord bot. It interacts with Discord servers, handles messages, and processes commands related to querying GOAT's database.
+   - The file `bot_setup.py` contains the core functionality of the Discord bot. It interacts with Discord servers, handles messages, and processes commands related to querying GOAT's database.
    - The file `message_handling.py` is for handling messages received by the bot, including searching for products on the GOAT website.
 
 #### 5. Run the Bot:
