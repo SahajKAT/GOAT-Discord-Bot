@@ -4,6 +4,16 @@ This Discord bot retrieves and processes data from GOAT, an online store special
 ## Setup Instructions
 #### 1. Install Python and Required Libraries:
    - Ensure Python is installed on your system ([Download Python](https://www.python.org/)).
+   - Clone the GitHub repository to your local machine using the following command:
+
+     ```
+     git clone https://github.com/SahajKAT/GOAT-Discord-Bot.git
+     ```
+   - Navigate to the project directory:
+
+     ```
+     cd GOAT-Discord-Bot
+     ```
    - Install the required libraries using pip:
      
      ```
