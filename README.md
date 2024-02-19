@@ -1,6 +1,6 @@
 # GOAT-Discord-Bot
 
-This Discord bot fetches and organizes data from GOAT, an online store for sneakers, apparel, and accessories, using web scraping. It also has reliable error handling to quickly address issues with unavailable or non-existent items.
+This Discord bot retrieves and processes data from GOAT, an online store specializing in sneakers, apparel, and accessories, through web scraping techniques. It incorporates resilient error-handling capabilities to swiftly address issues such as unavailable, inaccessible, or non-existent items.
 
 ## Setup Instructions
 
