@@ -22,7 +22,7 @@ This Discord bot efficiently fetches and analyzes data from GOAT, a specialized 
    - In the Discord Developer Portal, go to the "Bot" tab of your application
    - Enable the "PRESENCE INTENT" and "SERVER MEMBERS INTENT" under the "Privileged Gateway Intents" section
 
-#### 4. Adjust File References:
+#### 4. File Overview:
    - Ensure that your main Python file is named `bot_setup.py` and contains the bot logic.
    - If your bot logic is split into multiple files, ensure they are correctly imported and referenced in `bot_setup.py`.
 
