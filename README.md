@@ -33,7 +33,7 @@ This Discord bot efficiently fetches and analyzes data from GOAT, a specialized 
 #### Note:
    - Make sure to handle environment variables securely.
    - You may need to adjust permissions and roles within your Discord server for the bot to function correctly.
-   - Make sure to set up your .env file with your Discord token before running the bot script.
+   - Make sure to set up your `.env` file with your Discord token before running the bot script.
   
 ## Demonstration 
 https://github.com/SahajKAT/GOAT-Discord-Bot/assets/113306405/47f3fcc7-1124-4a07-99e7-e680077963c3
